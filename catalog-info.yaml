@@ -4,7 +4,8 @@ metadata:
   name: testing-env
   description: An example of a Backstage application.
   # Example for optional annotations
-  # annotations:
+  annotations:
+    service_name: backstage
   #   github.com/project-slug: backstage/backstage
   #   backstage.io/techdocs-ref: dir:.
 spec:
