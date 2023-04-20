@@ -6,6 +6,8 @@ metadata:
   # Example for optional annotations
   annotations:
     service_name: backstage
+    codefresh/project-ref: Rainbow
+    codefresh/pipeline-ref: reporting-pre-merge
   #   github.com/project-slug: backstage/backstage
   #   backstage.io/techdocs-ref: dir:.
 spec:
