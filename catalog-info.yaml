@@ -7,8 +7,8 @@ metadata:
   annotations:
     github.com/project-slug: backstage/backstage
     backstage.io/techdocs-ref: dir:.
-    health_monitor/service_names: "backstage"
-    health_monitor/endpoints: "dev4"
+    health_monitor/service_names: backstage
+    health_monitor/endpoints: dev4
 spec:
   type: service
   owner: john@example.com
